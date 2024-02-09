@@ -1,21 +1,22 @@
-### Hi there! 👋
+Hello, World! 👋
+I'm Sankalp Tiwari, a dedicated Software Engineer and Full Stack Developer with a deep passion for technology and innovation.
 
-I am Sankalp. I am a Software Engineer, Full Stack Developer, and a Tech Enthusiast.
+Dive into my world and explore my projects by visiting my portfolio: [https://sankalpstiwari.github.io/portfolio/]
 
-Please view my Portfolio using this link. [https://sankalpstiwari.github.io/portfolio/]
+This README.md isn't just any file—it's a gateway to my professional journey and the innovations I'm proud to share with the tech community.
+
+Curious about what I'm crafting or looking to collaborate on groundbreaking projects? Here's a glimpse into my current focus and interests:
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SankalpSTiwari&label=Views&color=blue&style=plastic)
 
-<!--
-**SankalpSTiwari/SankalpSTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious about what I'm crafting or looking to collaborate on groundbreaking projects? Here's a glimpse into my current focus and interests:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Working on: Enhancing web applications with the latest in frontend and backend technologies.
+🌱 Learning: Advanced concepts in cloud computing and AI to push the boundaries of what's possible.
+👯 Collaboration: Eager to join forces on open-source projects or tech for social good.
+🤔 Seeking: Insights on scalable architecture and efficient coding practices.
+💬 Discuss: Let's talk about innovative tech, programming languages, and the future of web development.
+📫 Reach me at: work.sankalptiwari@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: When I'm not coding, you might find me exploring the latest in VR or gaming!
+Let's connect and make something amazing together!
