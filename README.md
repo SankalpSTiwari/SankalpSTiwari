@@ -20,3 +20,4 @@ Here's a glimpse into my current focus and interests:
 - ⚡ **Fun fact:** When I'm not coding, you might find me exploring the latest in VR or gaming!
 
 Let's connect and make something amazing together!
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Views&color=blue&style=plastic)
