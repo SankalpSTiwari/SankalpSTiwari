@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am Sankalp. I am a Software Engineer, Full Stack Developer, and a Tech Enthusiast.
+
+Please view my Portfolio using this link. [https://sankalpstiwari.github.io/portfolio/]
+![Profile Views](https://komarev.com/ghpvc/?username=SankalpSTiwari&label=Views&color=blue&style=plastic)
 
 <!--
 **SankalpSTiwari/SankalpSTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
