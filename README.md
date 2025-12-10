@@ -51,14 +51,6 @@ Apache Kafka • Zookeeper • Event-driven architecture • High-throughput pip
 
 ---
 
-## 📊 GitHub Insights
-
-![Sankalp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankalpSTiwari&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SankalpSTiwari&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 
 I’m always open to collaborating on large-scale backend systems, distributed data pipelines, AI/LLM projects, and impactful open-source tools.
