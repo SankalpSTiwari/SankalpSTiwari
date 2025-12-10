@@ -1,24 +1,72 @@
-# Hello, World! 👋 
+# 👋 Hi, I'm **Sankalp Tiwari**
 
-I'm Sankalp Tiwari, a dedicated Software Engineer and Full Stack Developer with a deep passion for technology and innovation.
+**Software Engineer | Backend & Distributed Systems | Full-Stack Developer**
 
-Dive into my world and explore my projects by visiting my portfolio: [https://sankalpstiwari.github.io/portfolio/]
+I design and build **high-scale microservices**, **event-driven systems**, and **AI-powered automation**.  
+My work spans financial data engineering, cloud-native architectures, large-scale ingestion pipelines, and full-stack applications.
 
-This README.md isn't just any file—it's a gateway to my professional journey and the innovations I'm proud to share with the tech community.
+🌐 **Portfolio:** https://sankalpstiwari.github.io/portfolio  
+🔗 **LinkedIn:** https://linkedin.com/in/tsankalp  
+💻 **GitHub:** https://github.com/SankalpSTiwari  
+📫 **Email:** work.sankalptiwari@gmail.com  
+📱 **Phone:** +1 (669) 388-1668  
 
-## Curious about what I'm crafting or looking to collaborate on groundbreaking projects?
+---
 
-Here's a glimpse into my current focus and interests:
+## 🚀 About Me
 
-- 🔭 **Working on:** Enhancing web applications with the latest in frontend and backend technologies.
-- 🌱 **Learning:** Advanced concepts in cloud computing and AI to push the boundaries of what's possible.
-- 👯 **Collaboration:** Eager to join forces on open-source projects or tech for social good.
-- 🤔 **Seeking:** Insights on scalable architecture and efficient coding practices.
-- 💬 **Discuss:** Let's talk about innovative tech, programming languages, and the future of web development.
-- 📫 **Reach me at:** work.sankalptiwari@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** When I'm not coding, you might find me exploring the latest in VR or gaming!
+I am a Software Engineer specializing in **backend engineering**, **distributed systems**, **Kafka pipelines**, and **cloud-native microservices**.  
+I have built platforms that process **millions of financial events per day**, designed **AI-driven workflows**, and improved system reliability and scalability across multiple orgs.
 
-Let's connect and make something amazing together!
+My experience spans:
+
+- High-volume **Kafka-based ingestion pipelines**  
+- **Spring Boot microservices** on Kubernetes  
+- **LLM-powered agentic AI systems** for reconciliation & reporting  
+- Cloud deployments on **AWS**, **GCP**, and internal on-prem systems  
+- Full-stack development using **React, Node.js, Next.js**  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+Java • Python • Go • JavaScript • TypeScript • SQL • C++ • Shell • Groovy • Perl
+
+### **Backend & Frameworks**
+Spring Boot • Node.js • Express • FastAPI • Flask • Django • GraphQL • Next.js • Angular
+
+### **Frontend**
+React.js • Redux • HTML/CSS • Tailwind
+
+### **Data & Databases**
+MongoDB • PostgreSQL • MySQL • Sybase • Firebase • Redis • NoSQL • Stored Procedures
+
+### **Cloud, DevOps & Infra**
+AWS • GCP • Docker • Kubernetes • Autosys • Jenkins • GitLab CI/CD • SonarQube • VMware
+
+### **Distributed Systems**
+Apache Kafka • Zookeeper • Event-driven architecture • High-throughput pipelines
+
+
+---
+
+## 📊 GitHub Insights
+
+![Sankalp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SankalpSTiwari&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SankalpSTiwari&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborating on large-scale backend systems, distributed data pipelines, AI/LLM projects, and impactful open-source tools.
+
+📧 **Email:** work.sankalptiwari@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/tsankalp  
+💼 **Portfolio:** sankalpstiwari.github.io/portfolio/
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SankalpSTiwari&label=Views&color=blue&style=plastic)
